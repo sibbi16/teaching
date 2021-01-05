@@ -21,6 +21,8 @@
                         <li><a href="#about">About</a></li>
                         <li><a href="#course">Courses</a></li>
                         <li><a href="#contact">Contact</a></li>
+                        <li><a href="#fee">Fee Structure</a></li>	
+                      <li><a href="#package">Package</a></li>	
                     </ul>
                 </div>
             </div>
